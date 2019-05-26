@@ -1,0 +1,12 @@
+/target/
+/target/
+/.classpath
+/.project
+
+
+*.class
+.settings
+*.jar
+/target
+.classpath
+.project
